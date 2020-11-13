@@ -1,0 +1,72 @@
+{
+  "company": [
+    {
+      "name": "Key",
+      "url": "https://key.visualarts.gr.jp/",
+      "logo": "https://lain.bgm.tv/pic/crt/m/da/92/47_prsn_I3f0W.jpg?r=1576875767"
+    },
+    {
+      "name": "Yuzusoft",
+      "url": "http://www.yuzu-soft.com/",
+      "logo": "http://www.yuzu-soft.com/images/common/logo.png"
+    }
+  ],
+  "gal": [
+    {
+      "name": "AIR",
+      "company": "Key",
+      "tag": ["催泪","汉化","治愈","亲情"],
+      "date": "2000/9/8",
+      "img": "https://lain.bgm.tv/pic/cover/l/be/83/232_wpE8G.jpg",
+      "url": "http://key.visualarts.gr.jp/product/air/"
+    },
+    {
+      "name": "Summer Pockets",
+      "company": "Key",
+      "tag": ["催泪","汉化","治愈","全年龄"],
+      "date": "2018/06/29",
+      "img": "https://lain.bgm.tv/pic/cover/l/b2/72/200763_n2tEb.jpg",
+      "url": "http://key.visualarts.gr.jp/summer/"
+    },
+    {
+      "name": "Rewrite",
+      "company": "Key",
+      "tag": ["哲学","汉化","全年龄","战斗"],
+      "date": "2011/6/24",
+      "img": "https://lain.bgm.tv/pic/cover/l/d5/ff/4022_yF2YV.jpg",
+      "url": "http://key.visualarts.gr.jp/rewrite/"
+    },
+    {
+      "name": "CLANNAD",
+      "company": "Key",
+      "tag": ["催泪","神作","治愈","亲情"],
+      "date": "2004/4/28",
+      "img": "https://lain.bgm.tv/pic/cover/l/c5/1c/13_tQxwM.jpg",
+      "url": "http://key.visualarts.gr.jp/product/clannad/"
+    },
+    {
+      "name": "千恋＊万花",
+      "company": "Yuzusoft",
+      "tag": ["废萌","汉化","萝莉","纯爱"],
+      "date": "2016/7/29",
+      "img": "https://lain.bgm.tv/pic/cover/l/a7/20/172612_sjXrE.jpg",
+      "url": "http://www.yuzu-soft.com/products/senren/index.html"
+    },
+    {
+      "name": "RIDDLE JOKER",
+      "company": "Yuzusoft",
+      "tag": ["纯爱","妹控","校园","甜作"],
+      "date": "2018/3/30",
+      "img": "https://lain.bgm.tv/pic/cover/l/b8/52/231798_ogEH5.jpg",
+      "url": "http://www.yuzu-soft.com/products/senren/index.html"
+    },
+    {
+      "name": "魔女的夜宴",
+      "company": "Yuzusoft",
+      "tag": ["纯爱","校园","恋爱","汉化"],
+      "date": "2015/2/24",
+      "img": "https://lain.bgm.tv/pic/cover/l/61/c5/113290_Mku0U.jpg",
+      "url": "http://www.yuzu-soft.com/new/product/sothewitch/index.html"
+    }
+  ]
+}
